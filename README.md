@@ -1,1 +1,1 @@
-# MavenSample test
+# MavenSample
